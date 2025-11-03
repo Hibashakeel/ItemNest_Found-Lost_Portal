@@ -49,6 +49,7 @@ html, body {
   color: var(--text-dark);
   scroll-behavior: smooth;
   -webkit-font-smoothing: antialiased;
+  background-image: url('../images/bg2.png');
   line-height: 1.6;
 }
 
@@ -2801,3 +2802,4 @@ select.form-control {
     font-size: 2rem;
   }
 }
+
